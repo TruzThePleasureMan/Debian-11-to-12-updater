@@ -8,7 +8,7 @@ I would as well recommend to run `sudo apt --purge autoremove` -y after the upgr
 
 ## Usage
 
-# Recommended to run as root
+### Recommended to run as root
 
 ```bash
 wget -O update.sh https://raw.githubusercontent.com/TruzThePleasureMan/Debian-11-to-12-updater/main/update.sh && chmod +x update.sh && ./update.sh
