@@ -11,7 +11,7 @@ I would as well recommend to run `sudo apt --purge autoremove` -y after the upgr
 ### Recommended to run as root
 
 ```bash
-wget -O update.sh https://raw.githubusercontent.com/TruzThePleasureMan/Debian-11-to-12-updater/main/update.sh && chmod +x update.sh && ./update.sh
+wget -O update.sh https://raw.githubusercontent.com/TruzThePleasureMan/Debian-11-to-12-updater/master/update.sh && chmod +x update.sh && ./update.sh
 ```
 
 ## Why was this made?
