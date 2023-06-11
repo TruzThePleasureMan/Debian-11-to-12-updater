@@ -4,7 +4,7 @@
 
 This update will take a couple gigabytes in disk space, I recommend you have at least 5GB of free space before running this script.
 
-I would as well recommend to run `sudo apt --purge autoremove` -y after the upgrade is done, this is to just clear up some space.
+I would as well recommend to run `sudo apt --purge autoremove -y` after the upgrade is done, this is to just clear up some space.
 
 ## Usage
 
