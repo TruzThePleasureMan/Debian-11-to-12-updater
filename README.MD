@@ -4,7 +4,7 @@
 
 This update will take a couple gigabytes in disk space, I recommend you have at least 5GB of free space before running this script.
 
-I would as well recommend to run `sudo apt --purge autoremove` -y after the upgrade is done, this is to just clear up some space.
+I would as well recommend to run `sudo apt --purge autoremove -y` after the upgrade is done, this is to just clear up some space.
 
 This script was tested on a clean Debian 11 install, and is confirmed to be fully functional, and production ready.
 
@@ -13,7 +13,7 @@ This script was tested on a clean Debian 11 install, and is confirmed to be full
 ### Recommended to run as root
 
 ```bash
-wget -O update.sh https://raw.githubusercontent.com/TruzThePleasureMan/Debian-11-to-12-updater/main/update.sh && chmod +x update.sh && ./update.sh
+wget -O update.sh https://raw.githubusercontent.com/TruzThePleasureMan/Debian-11-to-12-updater/master/update.sh && chmod +x update.sh && ./update.sh
 ```
 
 ## Why was this made?
